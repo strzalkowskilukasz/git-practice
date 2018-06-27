@@ -10,6 +10,13 @@ public class Main {
         System.out.println("5commit");
         System.out.println("7commit!!!");
         System.out.println("8commit");
+<<<<<<< HEAD
+        System.out.println("10commit");
 
+        System.out.println("hotfix to commit 10");
+=======
+        System.out.println("testing branch c1");
+        System.out.println("testing branch c2");
+>>>>>>> testing
     }
 }
